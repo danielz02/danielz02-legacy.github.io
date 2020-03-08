@@ -54,3 +54,13 @@ topics:
   - name: Android
     web_url: https://github.com/topics/android
     image_url: https://raw.githubusercontent.com/izumin5210/emojipack-for-devicon/master/png/android.png
+    
+  - name: Python
+    web_url: https://github.com/topics/python
+    image_url: https://raw.githubusercontent.com/izumin5210/emojipack-for-devicon/master/png/python.png
+    
+  - name: Kotlin
+    web_url: 
+    image_url: https://commons.wikimedia.org/wiki/File:Kotlin-logo.png
+    
+  
