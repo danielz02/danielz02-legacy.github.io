@@ -63,4 +63,8 @@ topics:
     web_url: https://github.com/topics/kotlin
     image_url: https://upload.wikimedia.org/wikipedia/commons/b/b5/Kotlin-logo.png
     
+  - name: PyTorch
+    web_url: https://pytorch.org/
+    image_url: https://pytorch.org/
+    
   
