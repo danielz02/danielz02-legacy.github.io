@@ -21,7 +21,7 @@ projects:
   # sort_by options:
   #   - pushed
   #   - stars
-  limit: 9
+  limit: 12
   exclude:
     archived: false
     forks: true
@@ -35,7 +35,7 @@ social_media:
   # hackerrank: your_username
   instagram: danielz233
   # keybase: your_username
-  linkedin: chenhui-zhang-b3b31b103
+  linkedin: danielz02
   # mastodon: your_username
   # medium: your_username
   # stackoverflow: your_user_id
@@ -65,6 +65,6 @@ topics:
     
   - name: PyTorch
     web_url: https://pytorch.org/
-    image_url: https://pytorch.org/
+    image_url: https://miro.medium.com/max/1400/1*JupRAYk4Q2xyEBWVV4SNyg.jpeg
     
   
