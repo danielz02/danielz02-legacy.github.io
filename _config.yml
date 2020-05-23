@@ -39,33 +39,32 @@ social_media:
   # mastodon: your_username
   # medium: your_username
   # stackoverflow: your_user_id
-  telegram: danielz233
+  # telegram: your_username
   # twitter: your_username
   # unsplash: your_username
   # vk: your_username
   website: https://danielz.ch
   # youtube: your_username
-  wechat: https://imgur.com/a/mTW86Ya
 
 topics:
   - name: Java
     web_url: https://github.com/topics/java
     image_url: https://raw.githubusercontent.com/izumin5210/emojipack-for-devicon/master/png/java.png
-
+    
   - name: Android
     web_url: https://github.com/topics/android
     image_url: https://raw.githubusercontent.com/izumin5210/emojipack-for-devicon/master/png/android.png
-
+    
   - name: Python
     web_url: https://github.com/topics/python
     image_url: https://raw.githubusercontent.com/izumin5210/emojipack-for-devicon/master/png/python.png
-
+    
   - name: Kotlin
     web_url: https://github.com/topics/kotlin
     image_url: https://upload.wikimedia.org/wikipedia/commons/b/b5/Kotlin-logo.png
-
+    
   - name: PyTorch
     web_url: https://pytorch.org/
     image_url: https://miro.medium.com/max/1400/1*JupRAYk4Q2xyEBWVV4SNyg.jpeg
-
-
+    
+  
