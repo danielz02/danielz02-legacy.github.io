@@ -66,6 +66,10 @@ topics:
 
   - name: PyTorch
     web_url: https://pytorch.org/
-    image_url: https://symbols.getvecta.com/stencil_92/77_pytorch-icon.fb2354fff2.png
+    image_url: https://static.nvidiagrid.net/ngc/containers/pytorch-logo-light.png
+
+  - name: TypeScript
+    web_url: https://github.com/topics/typescript
+    image_url: assets/Typescript.png
 
 
