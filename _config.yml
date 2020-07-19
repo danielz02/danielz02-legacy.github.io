@@ -72,4 +72,8 @@ topics:
     web_url: https://github.com/topics/typescript
     image_url: assets/Typescript.png
 
+  - name: Wechaty
+    web_url: https://github.com/topics/wechaty
+    image_url: assets/Wechaty.png
+
 
